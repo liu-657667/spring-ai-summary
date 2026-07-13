@@ -155,6 +155,25 @@ Here are some recommended learning resources:
 - [Spring AI EmbeddingModel Concept and Source Code Analysis](https://my.oschina.net/u/2391658/blog/18534829)
 - [Complete RAG Techniques: Simpler, More Practical Implementation Methods ✨](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=zh)
 - [Spring AI Framework Principles and Practice](https://juejin.cn/column/7375109287716372520) 🌟🌟🌟
+- Large model popular science
+  - [LLM Series (1): Development History](https://mp.weixin.qq.com/s/72omFtMqinJs4MMX41MCyw)
+  - [LLM Series (2): Basic Concepts](https://mp.weixin.qq.com/s/Fg0bczAxejgKs_65kWxWSg)
+  - [LLM Series (3): Architecture Patterns](https://mp.weixin.qq.com/s/d6Y76I_Vxfmj6wa5sAN3uQ)
+  - [LLM Series (4): The Magic Numbers](https://mp.weixin.qq.com/s/tEozMs4QWDYx5vrhitA9uQ)
+  - [LLM Series (5): Model Training](https://mp.weixin.qq.com/s/TK8rTcrjS1pfigQxj2mq8A)
+  - [LLM Series (6): Model Inference](https://mp.weixin.qq.com/s/tjXme2CWnUxLmawDDiylWQ)
+  - [LLM Series (7): Mathematical Concepts](https://mp.weixin.qq.com/s/SBtmPoWtAoguWFUVPB1PGQ)
+  - [LLM Series (8): RAG](https://mp.weixin.qq.com/s/y4yAGqs6p4PhErPmRKtDkg)
+  - [LLM Series (9): RAG Extra — From Documents to Vectors](https://mp.weixin.qq.com/s/HojxR-tC5Gxn3tsxCz17Ow)
+  - [LLM Series (10): RAG Extra — Vector Retrieval](https://mp.weixin.qq.com/s/QFnfBU2we_4UG6v4spEFgA)
+  - [LLM Series (11): Model Accuracy](https://mp.weixin.qq.com/s/E_AeSOGYzoynm5hVicaKfw)
+  - [LLM Series (12): Interpreting Function Calling](https://mp.weixin.qq.com/s/RiILquzDnKZCaZG8nry2Eg)
+  - [LLM Series (13): Interpreting Context Engineering](https://mp.weixin.qq.com/s/o77X-ZKBbSwYq0qMqpTP4Q)
+  - [LLM Series (14): Interpreting Deep Research](https://mp.weixin.qq.com/s/t_CAsHp5cnFQIKFbbQqkLg)
+  - [LLM Series (15): Interpreting Transformer Positional Encoding](https://mp.weixin.qq.com/s/y4rDTx0BTNFTamem6S_WKw)
+  - [LLM Series (16): Interpreting Transformer Output Sampling](https://mp.weixin.qq.com/s/daR0asrVN01nFjFA2JcsJQ)
+  - [LLM Series (17): Interpreting Transformer Residual Connections](https://mp.weixin.qq.com/s/GEwu__TklVjBN0o9cildpA)
+  - [LLM Series (18): Interpreting Transformer Attention Mechanisms](https://mp.weixin.qq.com/s/dttX6ODjnoyKfFfpyZGepQ)
 
 #### Video Series
 - [How to Build Agents with Spring AI](https://www.youtube.com/watch?v=d7m6nJxfi0g)

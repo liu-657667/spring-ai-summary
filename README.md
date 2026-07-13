@@ -161,16 +161,63 @@ http://localhost:8081/actuator/metrics/ai.total.tokens
   - [LLM 系列（八）：RAG 篇](https://mp.weixin.qq.com/s/y4yAGqs6p4PhErPmRKtDkg)
   - [LLM 系列（九）：RAG 番外篇-从文档到向量](https://mp.weixin.qq.com/s/HojxR-tC5Gxn3tsxCz17Ow)
   - [LLM 系列（十）：RAG 番外篇-向量检索](https://mp.weixin.qq.com/s/QFnfBU2we_4UG6v4spEFgA)
-  - [LLM 系列（十一）：从 DeepSeek UE8M0 来回顾精度革命](https://mp.weixin.qq.com/s/E_AeSOGYzoynm5hVicaKfw)
+  - [LLM 系列（十一）：模型精度篇](https://mp.weixin.qq.com/s/E_AeSOGYzoynm5hVicaKfw)
   - [LLM 系列（十二）：解读 Function Calling](https://mp.weixin.qq.com/s/RiILquzDnKZCaZG8nry2Eg)
   - [LLM 系列（十三）：解读 Context Engineering](https://mp.weixin.qq.com/s/o77X-ZKBbSwYq0qMqpTP4Q)
   - [LLM 系列（十四）：解读 Deep Research](https://mp.weixin.qq.com/s/t_CAsHp5cnFQIKFbbQqkLg)
+  - [LLM 系列（十五）：解读 Transformer 位置编码](https://mp.weixin.qq.com/s/y4rDTx0BTNFTamem6S_WKw)
+  - [LLM 系列（十六）：解读 Transformer 输出采样](https://mp.weixin.qq.com/s/daR0asrVN01nFjFA2JcsJQ)
+  - [LLM 系列（十七）：解读 Transformer 残差连接](https://mp.weixin.qq.com/s/GEwu__TklVjBN0o9cildpA)
+  - [LLM 系列（十八）：解读 Transformer 注意力机制](https://mp.weixin.qq.com/s/dttX6ODjnoyKfFfpyZGepQ)
 
 #### 视频系列
 - [How to Build Agents with Spring AI](https://www.youtube.com/watch?v=d7m6nJxfi0g)
 - [Spring AI 系列视频教程](https://www.youtube.com/watch?v=yyvjT0v3lpY&list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
-- [马克的技术工作坊](https://space.bilibili.com/1815948385) 🌟🌟🌟🌟🌟
+- [马克的技术工作坊](https://space.bilibili.com/1815948385) 🌟🌟🌟
+- [大模型技术 AI 社区 EZ-Encoder](https://space.bilibili.com/3546829121652889?spm_id_from=333.788.upinfo.detail.click) 🌟🌟🌟🌟🌟
 
+#### 优质论文
+- 模型范式与核心算法
+  - [Brook for GPUs（2004）](https://graphics.stanford.edu/projects/brookgpu/)
+  - [ImageNet Classification with Deep CNNs（AlexNet）](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+  - [Sequence to Sequence Learning with Neural Networks（2014）](https://arxiv.org/abs/1409.3215)
+  - [Neural Machine Translation by Jointly Learning to Align and Translate（2014）](https://arxiv.org/abs/1409.0473)
+  - [Distilling the Knowledge in a Neural Network（2015）](https://arxiv.org/abs/1503.02531)
+  - [Deep Residual Learning for Image Recognition（ResNet）（2015）](https://arxiv.org/abs/1512.03385)
+  - [Outrageously Large Neural Networks: Mixture of Experts（2017）](https://arxiv.org/abs/1701.06538)
+  - [Attention Is All You Need（Transformer）（2017）](https://arxiv.org/abs/1706.03762)
+  - [Mastering the Game of Go without Human Knowledge（AlphaGo Zero）（2017）](https://www.nature.com/articles/nature24270)
+  - [The Bitter Lesson（2018）](https://www.gwern.net/The-Bitter-Lesson)
+  - [Chain-of-Thought Prompting（2022）](https://arxiv.org/abs/2201.11903)
+  - [LoRA: Low-Rank Adaptation of LLMs（2021）](https://arxiv.org/abs/2106.09685)
+  - [ReAct: Reasoning and Acting in Language Models（2022）](https://arxiv.org/abs/2210.03629)
+- Infra 与数据
+  - [ZeRO: Memory Optimization for Trillion-Parameter Models (2019)](https://arxiv.org/abs/1910.02054)
+  - [Scaling Laws for Neural Language Models (2020) ](https://arxiv.org/abs/2001.08361)
+  - [Training Compute-Optimal LLMs (Chinchilla) (2022) ](https://arxiv.org/abs/2203.15556)
+  - [LAION-5B Dataset (2022) — Schuhmann](https://arxiv.org/abs/2210.08402)
+  - [The RefinedWeb Dataset (2023)](https://arxiv.org/abs/2306.01116)
+  - [MegaScale: Training on 10,000\+ GPUs (2024)](https://arxiv.org/abs/2402.15627)
+- 语言模型发展
+  - [Efficient Estimation of Word Representations（Word2Vec）（2013）](https://arxiv.org/abs/1301.3781)
+  - [Google’s Neural Machine Translation System（2016）](https://arxiv.org/abs/1609.08144)
+  - [Improving Language Understanding by Generative Pre-Training（GPT-1）](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+  - [BERT: Pre-training of Deep Bidirectional Transformers（2018）](https://arxiv.org/abs/1810.04805)
+  - [Language Models are Unsupervised Multitask Learners（GPT-2）（2019）](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+  - [GPT-3: Language Models are Few-Shot Learners（2020）](https://arxiv.org/abs/2005.14165)
+  - [Training Language Models with Human Feedback（InstructGPT）（2022）](https://arxiv.org/abs/2203.02155)
+  - [Tulu 3 Technical Report（2024）](https://arxiv.org/abs/2411.15124)
+- DeepSeek
+  - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+  - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+  - [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
+- Kimi
+  - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
+  - [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
+- Qwen
+  - [Qwen Technical Report](https://arxiv.org/abs/2309.16609)
+  - [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)
+  - [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388)
 
 大家如果有好的文章或资源，也欢迎提交 PR 或 Issue 进行补充和完善。下面开发和贡献指南。
 
